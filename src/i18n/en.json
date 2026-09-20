@@ -1,0 +1,82 @@
+{
+  "app": {
+    "titulo": "Incorporations"
+  },
+  "nav": {
+    "empresas": "Companies",
+    "nuevaEmpresa": "+ New company",
+    "cerrarSesion": "Sign out"
+  },
+  "login": {
+    "subtitulo": "Sign in to continue",
+    "email": "Email",
+    "password": "Password",
+    "entrar": "Sign in",
+    "entrando": "Signing in..."
+  },
+  "empresas": {
+    "titulo": "Companies",
+    "columnas": {
+      "nombre": "Name",
+      "tipo": "Type",
+      "estado": "Formation state",
+      "plan": "Plan",
+      "estatus": "Status",
+      "creada": "Created"
+    },
+    "sinResultados": "No companies registered yet.",
+    "verDetalle": "View detail"
+  },
+  "estatus": {
+    "borrador": "Draft",
+    "en_proceso": "In progress",
+    "activa": "Active",
+    "disuelta": "Dissolved",
+    "pendiente": "Pending",
+    "completado": "Completed"
+  },
+  "form": {
+    "tituloNueva": "New company",
+    "nombreEmpresa": "Company name",
+    "tipoEntidad": "Entity type",
+    "estadoFormacion": "Formation state (US)",
+    "plan": "Plan",
+    "seleccionaPlan": "Select a plan",
+    "email": "Contact email",
+    "telefono": "Contact phone",
+    "domicilio": "Address",
+    "notas": "Notes",
+    "guardar": "Save company",
+    "guardando": "Saving...",
+    "cancelar": "Cancel",
+    "camposObligatorios": "Fields marked with * are required."
+  },
+  "detalle": {
+    "volver": "Back to companies",
+    "socios": "Members/Owners",
+    "agregarSocio": "+ Add member",
+    "documentos": "Documents",
+    "etapasProceso": "Process timeline",
+    "sinSocios": "No members registered yet.",
+    "sinDocumentos": "No documents uploaded yet.",
+    "sinEtapas": "This company has no assigned plan, so there are no stages."
+  },
+  "socio": {
+    "nombre": "Name",
+    "rol": "Role",
+    "participacion": "% Ownership",
+    "email": "Email",
+    "telefono": "Phone"
+  },
+  "etapa": {
+    "marcarEnProceso": "Mark in progress",
+    "marcarCompletado": "Mark completed",
+    "completadoEl": "Completed on"
+  },
+  "comun": {
+    "cargando": "Loading...",
+    "error": "Something went wrong",
+    "guardar": "Save",
+    "cerrar": "Close"
+  }
+}

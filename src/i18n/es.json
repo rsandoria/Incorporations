@@ -1,0 +1,82 @@
+{
+  "app": {
+    "titulo": "Incorporaciones"
+  },
+  "nav": {
+    "empresas": "Empresas",
+    "nuevaEmpresa": "+ Nueva empresa",
+    "cerrarSesion": "Cerrar sesión"
+  },
+  "login": {
+    "subtitulo": "Inicia sesión para continuar",
+    "email": "Correo electrónico",
+    "password": "Contraseña",
+    "entrar": "Entrar",
+    "entrando": "Entrando..."
+  },
+  "empresas": {
+    "titulo": "Empresas",
+    "columnas": {
+      "nombre": "Nombre",
+      "tipo": "Tipo",
+      "estado": "Estado de formación",
+      "plan": "Plan",
+      "estatus": "Estatus",
+      "creada": "Creada"
+    },
+    "sinResultados": "Aún no hay empresas registradas.",
+    "verDetalle": "Ver detalle"
+  },
+  "estatus": {
+    "borrador": "Borrador",
+    "en_proceso": "En proceso",
+    "activa": "Activa",
+    "disuelta": "Disuelta",
+    "pendiente": "Pendiente",
+    "completado": "Completado"
+  },
+  "form": {
+    "tituloNueva": "Nueva empresa",
+    "nombreEmpresa": "Nombre de la empresa",
+    "tipoEntidad": "Tipo de entidad",
+    "estadoFormacion": "Estado de formación (EE.UU.)",
+    "plan": "Plan",
+    "seleccionaPlan": "Selecciona un plan",
+    "email": "Correo de contacto",
+    "telefono": "Teléfono de contacto",
+    "domicilio": "Domicilio",
+    "notas": "Notas",
+    "guardar": "Guardar empresa",
+    "guardando": "Guardando...",
+    "cancelar": "Cancelar",
+    "camposObligatorios": "Los campos marcados con * son obligatorios."
+  },
+  "detalle": {
+    "volver": "Volver a empresas",
+    "socios": "Socios",
+    "agregarSocio": "+ Agregar socio",
+    "documentos": "Documentos",
+    "etapasProceso": "Línea de tiempo del proceso",
+    "sinSocios": "Aún no hay socios registrados.",
+    "sinDocumentos": "Aún no hay documentos subidos.",
+    "sinEtapas": "Esta empresa no tiene un plan asignado, por lo que no hay etapas."
+  },
+  "socio": {
+    "nombre": "Nombre",
+    "rol": "Rol",
+    "participacion": "% Participación",
+    "email": "Correo",
+    "telefono": "Teléfono"
+  },
+  "etapa": {
+    "marcarEnProceso": "Marcar en proceso",
+    "marcarCompletado": "Marcar completado",
+    "completadoEl": "Completado el"
+  },
+  "comun": {
+    "cargando": "Cargando...",
+    "error": "Ocurrió un error",
+    "guardar": "Guardar",
+    "cerrar": "Cerrar"
+  }
+}
